@@ -1,6 +1,0 @@
-Step1-Understanding the domain structure -Before starting a crawl, it’s a good idea to get a better understanding of the  site’s domain structure
-Step2-Configuring the Url Sources Crawl only the site by following its links to deeper levels. 
-Step-3-Format the downloaded content into a readable format
-Step-4-Extract out useful information and save it into a structured format
-
-

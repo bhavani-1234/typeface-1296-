@@ -1,0 +1,12 @@
+Step1-Understanding the domain structure -Before starting a crawl, it’s a good idea to get a better understanding of the  site’s domain structure
+Step2-Configuring the Url Sources Crawl only the site by following its links to deeper levels. 
+Step-3-Format the downloaded content into a readable format
+Step-4-Extract out useful information and save it into a structured format
+
+
+ You can imitate the request and directly access the data from the API if a website keeps data in an API and queries it each time a user visits the website.
+Step1- Check the URL you wish to crawl's XHR network section.
+Step2-Identify the request-response that provides you with the desired data.
+Step3-Simulate the request in your code and receive the data from the API depending on the request type (post or get), as well as the request header and payload.
+The data obtained from APIs is typically in a relatively attractive format.
+Step4-Extrapolate the pertinent information you require.
